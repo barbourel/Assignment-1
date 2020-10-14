@@ -1,5 +1,5 @@
 # Assignment-1
-FINTECH Homework 1
+Barbour FINTECH Homework 1
 # Case Study
 
 ## Overview and Origin
